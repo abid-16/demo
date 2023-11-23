@@ -1,15 +1,55 @@
 body{
     margin:0;
     padding:0;
+    font-family: Arial;
+    font-size:14px;
+    color:#0A1A3D;
 }
 h1, h2, h3, h4, h5, h6{
     margin-top:0;
     margin-bottom:15px;
 }
+h1{
+    font-size:28px;
+    font-weight:900;
+}
+h2{
+    font-size:24px;
+    font-weight:800;
+}
+h3{
+    font-size:20px;
+    font-weight:700;
+}
+h4{
+    font-size:18px;
+    font-weight:600;
+}
+h5{
+    font-size:16px;
+    font-weight:500;
+}
+h6{
+    font-size:14px;
+    font-weight:500;
+}
 a, img{
     border:0;
     text-decoration:none;
 }
-.zk{
-  color: red;
+p{
+    margin-bottom:15px;
+    margin-top:0;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+ul li{
+    list-style-type:square;
+    margin-left:15px;
+    padding-left:15px;
+    margin-bottom:15px;
+    padding-bottom:5px;
+    border-bottom:1px dotted #0A1A3D;
 }
