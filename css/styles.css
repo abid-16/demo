@@ -41,3 +41,15 @@ p{
     margin-bottom:15px;
     margin-top:0;
 }
+ul{
+    margin:0;
+    padding:0;
+}
+ul li{
+    list-style-type:square;
+    margin-left:15px;
+    padding-left:15px;
+    margin-bottom:15px;
+    padding-bottom:5px;
+    border-bottom:1px dotted #0A1A3D;
+}
